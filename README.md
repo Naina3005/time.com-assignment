@@ -138,7 +138,7 @@ Your final README file should look like this:
 
 This project implements a simple API that extracts the latest six stories from Time.com without using any external libraries. It serves the stories in a JSON format when accessed via a GET request.
 
-## Requirements
+##  Requirements
 
 - A programming language of your choice (e.g., Python, Node.js, etc.)
 - Basic understanding of HTTP requests and JSON
