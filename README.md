@@ -1,16 +1,16 @@
 # time.com-assignment    
 
-Step 1: Project Title
+##Step 1: Project Title
 Start by giving your project a clear and concise title.
 text
 # Time Stories API
 
-Step 2: Description
+## Step 2: Description
 Provide a brief description of what your project does.
 text
 This project implements a simple API that extracts the latest six stories from Time.com without using any external libraries. It serves the stories in a JSON format when accessed via a GET request.
 
-Step 3: Requirements
+## Step 3: Requirements
 List any prerequisites or requirements needed to run your project.
 text
 ## Requirements
@@ -18,9 +18,11 @@ text
 - A programming language of your choice (e.g., Python, Node.js, etc.)
 - Basic understanding of HTTP requests and JSON
 
-To include information about creating a virtual environment in your README file for a GitHub project, follow these steps:
-Virtual Environment Creation
-Creating a virtual environment is an essential step for managing dependencies in your project. Here’s how to do it:
+To include information about creating a virtual environment in your README file for a GitHub project, follow these steps: 
+
+#Virtual Environment Creation
+Creating a virtual environment is an essential step for managing dependencies in your project. Here’s how to do it: 
+
 Step 1: Install Python
 Ensure that Python is installed on your system. You can download it from python.org.
 Step 2: Set Up a Virtual Environment
@@ -29,20 +31,22 @@ Navigate to your project directory:
 bash
 cd path/to/your/project
 
-Create a virtual environment:
-You can create a virtual environment using the following command:
+#Create a virtual environment:
+You can create a virtual environment using the following command: 
+
 bash
 python -m venv venv
 
 This command creates a directory named venv in your project folder that will contain the virtual environment.  
 
-Step 3: Activate the Virtual Environment
-To start using the virtual environment, you need to activate it.
-On Windows:
+#Step 3: Activate the Virtual Environment
+To start using the virtual environment, you need to activate it. 
+
+#On Windows:
 bash
 venv\Scripts\activate
 
-On macOS and Linux:
+#On macOS and Linux:
 bash
 source venv/bin/activate
 
