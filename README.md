@@ -23,10 +23,10 @@ To include information about creating a virtual environment in your README file 
 ## Virtual Environment Creation
 Creating a virtual environment is an essential step for managing dependencies in your project. Here’s how to do it: 
 
-Step 1: Install Python
+## Step 1: Install Python
 Ensure that Python is installed on your system. You can download it from python.org. 
 
-Step 2: Set Up a Virtual Environment 
+## Step 2: Set Up a Virtual Environment 
 Open your terminal or command prompt.
 Navigate to your project directory:  
 
@@ -34,7 +34,7 @@ bash:
 
 cd path/to/your/project
 
-#Create a virtual environment:
+## Create a virtual environment:
 You can create a virtual environment using the following command: 
 
 bash
@@ -42,7 +42,7 @@ python -m venv venv
 
 This command creates a directory named venv in your project folder that will contain the virtual environment.  
 
-#Step 3: Activate the Virtual Environment
+## Step 3: Activate the Virtual Environment
 To start using the virtual environment, you need to activate it. 
 
 #On Windows: 
@@ -125,7 +125,8 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 Step 6: License
 If applicable, include a section for licensing.
-text
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
