@@ -73,7 +73,6 @@ text
 
 Explain how to use the API once it is set up.
 
-```markdown
 ## Usage
 
 To retrieve the latest stories, make a GET request to the following endpoint:
@@ -112,7 +111,7 @@ The response will be a JSON array containing the latest six stories, formatted a
     }
 ]
 
-text
+
 
 ## Step 5: Contributing
 
@@ -133,7 +132,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Final README Structure
 Your final README file should look like this:
-text
+
+
 # Time Stories API
 
 This project implements a simple API that extracts the latest six stories from Time.com without using any external libraries. It serves the stories in a JSON format when accessed via a GET request.
@@ -190,9 +190,10 @@ json
 
 Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.
+
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
-text
 
 This structured approach will help ensure that your README file is informative and user-friendly.
 
