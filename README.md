@@ -111,7 +111,7 @@ The response will be a JSON array containing the latest six stories, formatted a
     },
 ]
 
-# Time Stories API
+## Time Stories API
 
 This project implements a simple API that extracts the latest six stories from Time.com without using any external libraries. It serves the stories in a JSON format when accessed via a GET request.
 
