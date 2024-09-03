@@ -1,6 +1,6 @@
 # time.com-assignment    
 
-##Step 1: Project Title
+## Step 1: Project Title
 Start by giving your project a clear and concise title.
 text
 # Time Stories API
@@ -20,15 +20,18 @@ text
 
 To include information about creating a virtual environment in your README file for a GitHub project, follow these steps: 
 
-#Virtual Environment Creation
+## Virtual Environment Creation
 Creating a virtual environment is an essential step for managing dependencies in your project. Here’s how to do it: 
 
 Step 1: Install Python
-Ensure that Python is installed on your system. You can download it from python.org.
-Step 2: Set Up a Virtual Environment
+Ensure that Python is installed on your system. You can download it from python.org. 
+
+Step 2: Set Up a Virtual Environment 
 Open your terminal or command prompt.
 Navigate to your project directory:  
-bash
+
+bash: 
+
 cd path/to/your/project
 
 #Create a virtual environment:
@@ -42,11 +45,13 @@ This command creates a directory named venv in your project folder that will con
 #Step 3: Activate the Virtual Environment
 To start using the virtual environment, you need to activate it. 
 
-#On Windows:
+#On Windows: 
+
 bash
 venv\Scripts\activate
 
-#On macOS and Linux:
+#On macOS and Linux: 
+
 bash
 source venv/bin/activate
 
@@ -64,7 +69,7 @@ cd timestories-api
 Implement the API in your preferred programming language.
 text
 
-## Step 5: Usage
+## Step 4: Usage
 
 Explain how to use the API once it is set up.
 
@@ -109,16 +114,16 @@ The response will be a JSON array containing the latest six stories, formatted a
 
 text
 
-## Step 6: Contributing
+## Step 5: Contributing
 
 Encourage others to contribute to your project.
 
-```markdown
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.
 
-Step 7: License
+Step 6: License
 If applicable, include a section for licensing.
 text
 ## License
