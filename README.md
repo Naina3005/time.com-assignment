@@ -116,6 +116,9 @@ The response will be a JSON array containing the latest six stories, formatted a
 Step 5 : Contributing
 
 Encourage others to contribute to your project.
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.
 
 
 ## Contributing
