@@ -108,7 +108,7 @@ The response will be a JSON array containing the latest six stories, formatted a
     {
         "title": "We Urgently Need a New National COVID-19 Response Plan",
         "link": "https://time.com/6142718/we-need-new-national-covid-19-response-plan/"
-    }
+    },
 ]
 
 
