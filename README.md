@@ -113,7 +113,7 @@ The response will be a JSON array containing the latest six stories, formatted a
 
 
 
-## Step 5: Contributing
+## Step 5 : Contributing
 
 Encourage others to contribute to your project.
 
